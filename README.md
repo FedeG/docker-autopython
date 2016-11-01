@@ -1,6 +1,6 @@
 # Docker-autopython
 
-Docker with [autopython](https://github.com/gosella/autopython).
+[autopython](https://github.com/gosella/autopython) docker implementation.
 **autopython**: Automatic typing on the Python shell plus syntax highlighting, history navigation and more.
 
 ## Installation and documentation
