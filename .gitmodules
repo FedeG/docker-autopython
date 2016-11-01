@@ -1,0 +1,3 @@
+[submodule "autopython"]
+	path = autopython
+	url = git@github.com:gosella/autopython.git
