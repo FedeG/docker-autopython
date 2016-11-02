@@ -9,8 +9,7 @@
 
 ### Badges
 
-[![](https://images.microbadger.com/badges/version/fedeg/autopython:latest.svg)](http://microbadger.com/images/fedeg/autopython:latest "Get your own version badge on microbadger.com")
-[![](https://images.microbadger.com/badges/image/fedeg/autopython:latest.svg)](http://microbadger.com/images/fedeg/autopython:latest "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/fedeg/autopython:latest.svg)](http://microbadger.com/images/fedeg/autopython:latest "Get your own version badge on microbadger.com")  [![](https://images.microbadger.com/badges/image/fedeg/autopython:latest.svg)](http://microbadger.com/images/fedeg/autopython:latest "Get your own image badge on microbadger.com")
 
 ### Installation instructions:
 A simple bash alias
