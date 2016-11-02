@@ -3,6 +3,8 @@
 [autopython](https://github.com/gosella/autopython) docker implementation.
 **autopython**: Automatic typing on the Python shell plus syntax highlighting, history navigation and more.
 
+[![asciicast](https://asciinema.org/a/91428.png)](https://asciinema.org/a/91428?autoplay=true&loop=true)
+
 ## Installation and documentation
 - [Documentation](https://fedeg.github.io/docker-autopython/ "github page").
 - [Image in docker hub](https://hub.docker.com/r/fedeg/autopython/ "docker hub").
