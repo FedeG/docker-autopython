@@ -4,7 +4,7 @@
 **autopython**: Automatic typing on the Python shell plus syntax highlighting, history navigation and more.
 
 ## Installation and documentation
-- [Documentation](https://fedeg.github.io/autopython/ "github page").
+- [Documentation](https://fedeg.github.io/docker-autopython/ "github page").
 - [Image in docker hub](https://hub.docker.com/r/fedeg/autopython/ "docker hub").
 
 ### Badges
